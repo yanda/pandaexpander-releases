@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PandaExpander</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 17 Jul 2026 11:01:28 -0700</pubDate>
+            <sparkle:version>202607171758</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.1.0/PandaExpander-0.1.0-202607171758.dmg" length="4160331" type="application/octet-stream" sparkle:edSignature="v7kq7hi2nhuH1/ptQ45Bq/RB8Ut3EOQS8nam6DxH4I0A8sw5pfedzL23AojJEO8GAjAoR2s83f9AOU+FAOUXDw=="/>
+        </item>
+    </channel>
+</rss>
