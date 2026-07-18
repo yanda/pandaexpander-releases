@@ -3,6 +3,14 @@
     <channel>
         <title>PandaExpander</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 18 Jul 2026 15:28:00 -0700</pubDate>
+            <sparkle:version>202607182224</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.2.0/PandaExpander-0.2.0-202607182224.dmg" length="4665465" type="application/octet-stream" sparkle:edSignature="gPColSD0XoC9MRQ1iay5crBmLCxiphDOBArc2ns//P1ikN1MlV3wy5m49WVjKGmBhcdwKw0KbVvN6OpDA/NeBQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 17 Jul 2026 17:37:24 -0700</pubDate>
             <sparkle:version>202607180035</sparkle:version>
