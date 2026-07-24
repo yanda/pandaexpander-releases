@@ -3,6 +3,14 @@
     <channel>
         <title>PandaExpander</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Fri, 24 Jul 2026 09:57:41 -0700</pubDate>
+            <sparkle:version>202607241655</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.4.1/PandaExpander-0.4.1-202607241655.dmg" length="4879736" type="application/octet-stream" sparkle:edSignature="OhWcJsDJmZfOcusdaZieru/yw4XwoGjCWRpSb+jPaE2pLvie7b2+B6yEbV2jSS4qtATzzc8ZKMrvlN+H1YfzCw=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 24 Jul 2026 09:03:28 -0700</pubDate>
             <sparkle:version>202607241601</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.3.5/PandaExpander-0.3.5-202607231458.dmg" length="4876148" type="application/octet-stream" sparkle:edSignature="Kd11sKB+oIUNmZnqe2wv8A7rVdQJ2PdnCgjGL/T7Xw3cUHvd9Z+iz2ToMN7UWA277b3l1BFZ+x6svGisvQkmAA=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Tue, 21 Jul 2026 07:00:06 -0400</pubDate>
-            <sparkle:version>202607201919</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.3.3/PandaExpander-0.3.3-202607201919.dmg" length="4872934" type="application/octet-stream" sparkle:edSignature="dWO2vh6bnFlpN1QiEnfuRGYIO1io7/FK8PygXgA+9It1cn474pBnHzafid+FPU9/cCUSpI6DfXXT4gu9HAFZAA=="/>
         </item>
     </channel>
 </rss>
