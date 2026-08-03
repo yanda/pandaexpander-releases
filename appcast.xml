@@ -3,6 +3,14 @@
     <channel>
         <title>PandaExpander</title>
         <item>
+            <title>0.6.10</title>
+            <pubDate>Mon, 03 Aug 2026 11:56:57 -0700</pubDate>
+            <sparkle:version>202608031855</sparkle:version>
+            <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.10/PandaExpander-0.6.10-202608031855.dmg" length="5893800" type="application/octet-stream" sparkle:edSignature="+JlLmA16t4utXnGHpoFqxFawxOXmfyU6A1SMpT7dv1ZK67Vc3tq7awl/M6ypr7+cBS6xyOsTXMn/2GblHCCCDA=="/>
+        </item>
+        <item>
             <title>0.6.9</title>
             <pubDate>Mon, 03 Aug 2026 11:40:55 -0700</pubDate>
             <sparkle:version>202608031838</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.8/PandaExpander-0.6.8-202608022019.dmg" length="5888959" type="application/octet-stream" sparkle:edSignature="iFwhIwxLxBInoK8R0cewV5sAHKECr4wTePKU8oWMUZqp8us93ZipftlJFlb434513XQYy3yBHlFq+z5uI84bCA=="/>
-        </item>
-        <item>
-            <title>0.6.7</title>
-            <pubDate>Sun, 02 Aug 2026 11:25:50 -0700</pubDate>
-            <sparkle:version>202608021820</sparkle:version>
-            <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.7/PandaExpander-0.6.7-202608021820.dmg" length="5849787" type="application/octet-stream" sparkle:edSignature="sO4gq+MWQN8sxZzvYqapwwcpsO/SYyBZ9BxubfVo2w61Sk02mYT/16VEnfFGo/titaZCYN7O8LB44sU1i50eDw=="/>
         </item>
     </channel>
 </rss>
