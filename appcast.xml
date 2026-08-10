@@ -3,6 +3,14 @@
     <channel>
         <title>PandaExpander</title>
         <item>
+            <title>0.6.19</title>
+            <pubDate>Mon, 10 Aug 2026 15:37:30 -0700</pubDate>
+            <sparkle:version>202608102235</sparkle:version>
+            <sparkle:shortVersionString>0.6.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.19/PandaExpander-0.6.19-202608102235.dmg" length="6025870" type="application/octet-stream" sparkle:edSignature="gnd8JyXDWbvIWHQv0N8wbzcBAGFF49y3EA0Rn2LDTJcck9sP7iN9AMKKrPEZh5TxbCO29B82tBTnDWr+2RKHDQ=="/>
+        </item>
+        <item>
             <title>0.6.18</title>
             <pubDate>Fri, 07 Aug 2026 12:36:18 +0200</pubDate>
             <sparkle:version>202608071033</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.6.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.17/PandaExpander-0.6.17-202608061847.dmg" length="6004587" type="application/octet-stream" sparkle:edSignature="N+ox1IEH+YVYyIaEmq+CR5W06Sa9m8duMFTdsV9UcauI7psOHgpBMd5hgIxBczXL8oQDWCvgmVI56LXonXwiDQ=="/>
-        </item>
-        <item>
-            <title>0.6.16</title>
-            <pubDate>Thu, 06 Aug 2026 17:17:56 +0200</pubDate>
-            <sparkle:version>202608061714</sparkle:version>
-            <sparkle:shortVersionString>0.6.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yanda/pandaexpander-releases/releases/download/v0.6.16/PandaExpander-0.6.16-202608061714.dmg" length="6003592" type="application/octet-stream" sparkle:edSignature="3PtkOQcEVrPIwVxBbxublXyf4sR69SU2N0WSuACZoBLYL94gMwMDkfvs5uEbq1eGzY98uVOGf365u5EWpj4yAA=="/>
         </item>
     </channel>
 </rss>
